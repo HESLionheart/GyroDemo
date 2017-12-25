@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: 25c0caf9ff4b7544eb8a1b588ede6406
-timeCreated: 1514055081
+timeCreated: 1514212849
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: player
+    21300002: laser
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -95,6 +96,20 @@ TextureImporter:
         y: 117
         width: 99
         height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: laser
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 286
+        width: 13
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
